@@ -1,7 +1,5 @@
 # OCR-Marketplace-Fraud-Image-Classifier
 
-# Marketplace Fraud Detection with EasyOCR and RuBERT
-
 ## Overview
 The **Marketplace Fraud Detection with EasyOCR and RuBERT** project aims to identify fraudulent images in online marketplaces by classifying them into two categories: fraud and non-fraud. The model focuses on detecting images that contain deceptive text, such as scam messages, to enhance trust and safety in e-commerce environments.
 
