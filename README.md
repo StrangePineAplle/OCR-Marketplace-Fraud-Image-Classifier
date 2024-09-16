@@ -50,7 +50,7 @@ RuBERT (Russian BERT) is a pre-trained language model based on BERT (Bidirection
 
 The performance of the **Marketplace Fraud Image Classifier** was evaluated using various metrics, with a primary focus on the F1 score, which balances precision and recall. 
 
-After thorough training and validation, the final model achieved an impressive F1 score of **0.92**. This high score indicates that the model is highly effective in distinguishing between fraudulent and non-fraudulent images, demonstrating its ability to minimize false positives and false negatives.
+After thorough training and validation, the final model achieved an impressive F1 score of **0.96**. This high score indicates that the model is highly effective in distinguishing between fraudulent and non-fraudulent images, demonstrating its ability to minimize false positives and false negatives. While OCR models provide high accuracy, they can be relatively slow, which may not be suitable for some applications. For a more optimal solution, consider my [CLIP based solution](https://github.com/StrangePineAplle/CLIP-Marketplace-Fraud-Image-Classifier)
 
 ### Performance Metrics
 - **F1 Score**: 0.96
