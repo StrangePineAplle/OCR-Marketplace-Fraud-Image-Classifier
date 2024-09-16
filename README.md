@@ -6,8 +6,7 @@
 [![OCR base solution](https://img.shields.io/badge/CLIP%20base%20solution%20-%20red)](https://github.com/StrangePineAplle/CLIP-Marketplace-Fraud-Image-Classifier)
 
 ## Overview
-The **Marketplace Fraud Detection with EasyOCR and RuBERT** project aims to identify fraudulent images in online marketplaces by classifying them into two categories: fraud and non-fraud. The model focuses on detecting images that contain deceptive text, such as scam messages, to enhance trust and safety in e-commerce environments.
-
+The **Marketplace Fraud Detection with EasyOCR and RuBERT** project aims to detect fraudulent images in online marketplaces by classifying them as either fraudulent or non-fraudulent. The model is trained to identify images that contain deceptive text, such as "деньги за отзывы телеграм @mony_tg," which are commonly associated with scams.
 ## Data
 
 The dataset used for training the **Marketplace Fraud Image Classifier** consists of two main categories: fraudulent images and non-fraudulent (normal) images.
